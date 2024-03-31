@@ -14,3 +14,5 @@ The files I used are the .csv-files (**chicago.csv, new_york_city.csv and washin
 ### Credits
 Credits to the whole UDACITY-team <3.
 
+### Bugs
+Currently, there are no bugs known.
