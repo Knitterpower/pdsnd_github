@@ -17,3 +17,42 @@ Credits to the whole UDACITY-team <3.
 
 ### Bugs
 Currently, there are no bugs known.
+
+### Instruction
+There are 4 questions that need to be answered:
+
+_What city do you want to analyze?_ 
+
+Possible answers: 
+*chicago
+*new york city
+*washington
+
+_What month do you want to analyze_
+
+Possible answers:
+*all (no filter)
+*jan
+*feb
+*mar
+etc.
+
+_Which day?_
+
+Possible answers:
+*all (no filter)
+*Monday
+*Tuesday
+etc.
+
+_Would you like to see 5 lines of raw data?_
+
+Possible answers:
+*yes
+*no
+
+_Would you like to restart?_
+
+Possbile answers:
+*yes
+*no
