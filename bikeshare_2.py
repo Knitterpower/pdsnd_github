@@ -1,3 +1,6 @@
+#Project about bikeshare data
+
+#Import libraries
 import time
 import pandas as pd
 import numpy as np
@@ -198,6 +201,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df, city)
         
+        #code ask to print raw data, and the printing itself
         more_data = 1
         line_count = 5
         initial_counter =1
