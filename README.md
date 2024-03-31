@@ -3,6 +3,7 @@
 
 ### Project Title
 Bikeshare Data
+-Statistics about bikeshare data in big cities
 
 ### Description
 The project contains bikeshare data for three cities (Chicago, New York City and Washington) and states different statistics based on the data (e.g total travel time, most commonly used start station). The user can filter the city, the month and the weekday.
